@@ -8,3 +8,8 @@
   box-shadow: none;
   border: none;
 }
+
+.footer.menu {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
